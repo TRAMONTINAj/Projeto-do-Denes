@@ -1,0 +1,49 @@
+body{
+    background-color: #fff;
+}
+
+header{
+    width: 100%;
+    padding: 28px 8%;
+
+}
+
+
+#navbar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+#nav_logo{
+    font-size: 44px;
+    color: #6B3FA5;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+    gap: 48px;
+      
+   }
+
+   .nav-item a {
+    text-decoration: none;
+    color: rgb(49, 45, 45);
+    font-weight: 600;
+    }
+
+
+
+
+
+
+.nav-item a:hover {
+    color: #000000;
+    border-bottom: 3px solid  #6B3FA5 ;
+    border-radius: 4px;
+}
+
+
