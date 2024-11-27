@@ -15,7 +15,7 @@ section{
     border: none;
     padding: 7px;
     color: #fff;
-    background-color: #6B3FA5;
+    background-color: #CF9135;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -23,5 +23,15 @@ section{
 
 .btn1:hover{
     box-shadow: 0px 0px 5px 2px rgba(14, 13, 13, 0.900);
-    background-color:#732CCF;
+    background-color:#DE8D14;
 }
+
+.section-title {
+    color: #CF9134;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.section-subtitle {
+    font-size: 2.1875rem;
+} 
